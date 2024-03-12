@@ -10,7 +10,6 @@ Exercícios
 05. Declare uma variável do tipo double valorEmDolares. Atribua um valor em dólares a essa variável. Considere que o
     valor de 1 dólar é equivalente a 4.94 reais. Realize a conversão do valor em dólares para reais e imprima o resultado
     formatado.
-
 06. Declare uma variável do tipo double precoOriginal. Atribua um valor em reais a essa variável, representando o preço
     original de um produto. Em seguida, declare uma variável do tipo double percentualDesconto e atribua um valor percentual
     de desconto ao produto (por exemplo, 10 para 10%). Calcule o valor do desconto em reais, aplique-o ao preço original e

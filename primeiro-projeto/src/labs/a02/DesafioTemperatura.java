@@ -12,8 +12,7 @@ public class DesafioTemperatura {
                 temperaturaCelsius, temperaturaFahrenheit));
 
         int temperaturaFahrenheitInteira = (int) ((temperaturaCelsius * 1.8) + 32);
-
-
+        
         System.out.println(String.format("A temperatura em Fahrenheit inteira é %dºF", temperaturaFahrenheitInteira));
     }
 }

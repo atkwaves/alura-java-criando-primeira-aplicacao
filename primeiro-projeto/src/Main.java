@@ -24,7 +24,6 @@ public class Main {
                 """ + anoDeLancamento;
         System.out.println(sinopseTextBlocks);
 
-        
         int classificacao = (int) media / 2;
         System.out.println(classificacao);
     }

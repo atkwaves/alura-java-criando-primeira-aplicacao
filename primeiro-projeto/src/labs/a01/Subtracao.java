@@ -1,4 +1,4 @@
-package labs;
+package labs.a01;
 
 public class Subtracao {
 

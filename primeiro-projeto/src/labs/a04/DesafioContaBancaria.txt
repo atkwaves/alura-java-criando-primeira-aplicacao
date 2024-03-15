@@ -1,0 +1,10 @@
+Desafio
+
+Criar uma conta bancária virtual, onde possamos consultar saldos, receber e fazer transferências.
+
+O que vamos fazer:
+- Inicializar dados do cliente;
+- Menu de opções;
+- Visualização do saldo;
+- Enviar valor;
+- Recebe valor.

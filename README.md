@@ -1,12 +1,13 @@
 <h1>
     <a href="https://cursos.alura.com.br/course/java-criando-primeira-aplicacao">
-     <img align="center" width="40px" src="https://www.alura.com.br/assets/api/cursos/java-criando-primeira-aplicacao.svg"></a>
+     <img align="center" width="64px" src="https://www.alura.com.br/assets/api/cursos/java-criando-primeira-aplicacao.svg">
+    </a>
     <span>
         Curso de Java: Criando a sua primeira aplicação
     </span>
 </h1>
 
-## 🔨 Objetivos
+## 🎯 Objetivos
 
 - Criar um projeto Java com o IntelliJ;
 - Aprender sobre o processo de compilação e execução de uma aplicação Java;
@@ -23,3 +24,7 @@
 **A03** Controlando o fluxo da aplicação
 
 **A04** Consolidando conhecimentos 
+
+## 🔧 Ferramentas
+
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
